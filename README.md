@@ -2,4 +2,4 @@ Customer segmentation is the practice of dividing a company's customers into gro
 
 This project provides a comprehensive Python implementation for customer segmentation using the K-Means clustering algorithm. The implementation includes data preprocessing, model training, evaluation, and visualization of the clustering results. It is designed to be easy to use and modify for different datasets and business requirements.
 
-The dataset is taken from alma matter
+
